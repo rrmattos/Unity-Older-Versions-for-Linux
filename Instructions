@@ -1,0 +1,19 @@
+If you haven't found the older version you need, try the following steps:
+
+On the "Download Archive" page of the UnityEngine, find the version you want and right click on the green "Unity Hub" button. 
+Then, copy the URL link. Should be something like:
+
+" unityhub://2019.2.21f1/9d528d026557 "
+
+
+
+Now, write on the URL the link "http://beta.unity3d.com/download/ " and after "/download/" insert the key (or whatever this is) "9d528d026557/" and then, insert "UnitySetup-" and the version "2019.2.21.f1". 
+The result will be:
+
+" http://beta.unity3d.com/download/9d528d026557/UnitySetup-2019.2.21f1 "
+
+
+
+Press "Enter", download the file, modify the extension for ".appimage" (in case it's not an appimage already) and "voilà"!
+
+I've the Ubuntu 19.10 installed, so maybe changing the extension like this could not work in a different OS... 
