@@ -1,6 +1,6 @@
 If you haven't found the older version you need, try the following steps:
 
-On the "Download Archive" page of the UnityEngine, find the version you want and right click on the green "Unity Hub" button. 
+On the "Download Archive" page of UnityEngine, find the version you want and right click on the green "Unity Hub" button. 
 Then, copy the URL link. Should be something like:
 
 " unityhub://2019.2.21f1/9d528d026557 "
@@ -17,4 +17,4 @@ The result will be:
 
 Press "Enter", download the file, modify the extension for ".appimage" (in case it's not an appimage already) and "voilà"!
 
-I've the Ubuntu 19.10 installed, so maybe changing the extension like this could not work in a different OS... 
+I've the Ubuntu 19.10 installed, so maybe changing the extension file like this could not work in a different OS... 
