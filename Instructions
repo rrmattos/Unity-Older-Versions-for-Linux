@@ -15,6 +15,6 @@ The result will be:
 
 
 
-Press "Enter", download the file, modify the extension for ".appimage" (in case it's not an appimage already) and "voilà"!
+Press "Enter", download the file, modify the extension for ".appimage" (in case it's not an appimage already), give the permissions and "voilà"!
 
 I've the Ubuntu 19.10 installed, so maybe changing the extension file like this could not work in a different OS... 
