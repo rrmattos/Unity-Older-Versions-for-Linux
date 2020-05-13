@@ -1,0 +1,14 @@
+Apparently, when we install a Unity version, outside the Unity Hub, we won't be able to install the SDK, NDK and JDK modules 
+for Android.
+So, I compressed the Android folder with the modules and I'm making them available here, via google drive (the file have 1.5GB):
+
+https://drive.google.com/file/d/1xjsbinlZnlL0dBlnDpp-1c3Aa4J8Od6A/view?usp=sharing
+
+
+For installation, all you need to do is find the folder's path, in your engine's folder (this needs to be done for each 
+different version), then make a backup of the original "AndroidPlayer" folder, save it elsewhere, and then replace the folder
+with the one on the drive.
+
+I used it in a 2019.x version of Unity, so I don't know if the same files work in other versions.
+
+In Ubuntu the path is "/home/your_user/Unity/engine_version_folder/Editor/Data/PlaybackEngines"
