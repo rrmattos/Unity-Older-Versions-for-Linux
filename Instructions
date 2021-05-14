@@ -1,4 +1,4 @@
-If you haven't found the older version you need, try the following steps:
+If you haven't found the older version that you need, try the following steps:
 
 On the "Download Archive" page of UnityEngine, find the version you want and right click on the green "Unity Hub" button. 
 Then, copy the URL link. Should be something like:
@@ -7,8 +7,8 @@ Then, copy the URL link. Should be something like:
 
 
 
-Now, write on the URL the link "http://beta.unity3d.com/download/ " and after "/download/" insert the key (or whatever this is) 
-"9d528d026557/" and then, insert "UnitySetup-" and the version "2019.2.21.f1". 
+Now, you have to do some editings. First, write on the URL the address " http://beta.unity3d.com/download/ " and after "/download/" insert the key "9d528d026557", 
+add a slash "/", then write "UnitySetup-" and finally add the version "2019.2.21.f1". (note: the key and the version was copied from the link in Unity Hub button)
 The result will be:
 
 " http://beta.unity3d.com/download/9d528d026557/UnitySetup-2019.2.21f1 "
